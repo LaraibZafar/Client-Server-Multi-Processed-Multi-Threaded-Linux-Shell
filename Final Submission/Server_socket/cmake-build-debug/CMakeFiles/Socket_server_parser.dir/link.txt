@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Socket_server_parser.dir/main.cpp.o  -o Socket_server_parser 
